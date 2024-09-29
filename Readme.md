@@ -4,10 +4,10 @@ College Mentor-Mentee Selection Platform
 Overview: 
 This project aims to create a mentor-mentee selection system for a college where each professor acts as a mentor. Mentors will be categorized based on their skills into five predefined categories. Students, or mentees, can choose their mentors based on their interests using a filtering system. The system will allow students to view detailed mentor profiles and select a mentor who aligns with their academic and professional goals.
 
-The plan is to use PERN stack \
-M ->  MongoDB || for data storage, read, write or PostgreSQL is also good to go \
+The plan is to use MERN stack \
+M ->  MongoDB || for data storage, read, write \
 E -> Express  || middleware to connect the FrontEnd with BackEnd ( a framework of node ) \
-R -> React Js || Frontend with css \
+R -> React Js || Frontend with Tailwind css \
 N -> Node Js  || Backend activities
 
 Group of 4: (Individual Roles)
