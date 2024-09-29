@@ -12,7 +12,7 @@ N -> Node Js  || Backend activities
 
 Group of 4: (Individual Roles)
 1. React + Tailwind Css
-2. MongoDB
+2. React + Tailwind Css + MongoDB
 3. Node js + Express js
 4. Express js + Axios(api fetch) ( to handle http requests from React to Node js)
 
