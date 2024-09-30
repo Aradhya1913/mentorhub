@@ -15,7 +15,7 @@ Group of 4: (Individual Roles)
 2. React + Tailwind Css + MongoDB || Neha S
 3. Node js + Express js           || Nandeesh Aradhya R
 4. Express js + Axios(api fetch)  || Prajwal MB
-( to handle http requests from React to Node js) 
+ 
 
 Use github to save the progress so that everyone can know others progress
 Can git to make a sub branch with team members names & each can build upon that
