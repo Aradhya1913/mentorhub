@@ -11,10 +11,11 @@ R -> React Js || Frontend with Tailwind css \
 N -> Node Js  || Backend activities
 
 Group of 4: (Individual Roles)
-1. React + Tailwind Css
-2. React + Tailwind Css + MongoDB
-3. Node js + Express js
-4. Express js + Axios(api fetch) ( to handle http requests from React to Node js)
+1. React + Tailwind Css           || Inija A Nataraj
+2. React + Tailwind Css + MongoDB || Neha S
+3. Node js + Express js           || Nandeesh Aradhya R
+4. Express js + Axios(api fetch)  || Prajwal MB
+( to handle http requests from React to Node js) 
 
 Use github to save the progress so that everyone can know others progress
 Can git to make a sub branch with team members names & each can build upon that
